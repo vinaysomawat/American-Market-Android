@@ -1,4 +1,4 @@
-package com.vinaysomawat.careerhigh;
+package com.vinaysomawat.americanmarketandroid;
 
 
 import android.support.v7.app.ActionBarActivity;
