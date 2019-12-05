@@ -1,4 +1,4 @@
-package com.vinaysomawat.americanmarketandroid;
+package com.americanmarket.americanmarketandroid;
 
 
 import android.support.v7.app.ActionBarActivity;

@@ -1,4 +1,4 @@
-package com.vinaysomawat.careerhigh;
+package com.americanmarket.americanmarketandroid;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.vinaysomawat.careerhigh", appContext.getPackageName());
+        assertEquals("com.americanmarket.americanmarketandroid", appContext.getPackageName());
     }
 }

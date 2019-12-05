@@ -1,4 +1,4 @@
-package com.vinaysomawat.careerhigh;
+package com.americanmarket.americanmarketandroid;
 
 import org.junit.Test;
 
