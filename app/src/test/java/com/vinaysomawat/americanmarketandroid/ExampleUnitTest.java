@@ -1,4 +1,4 @@
-package com.americanmarket.americanmarketandroid;
+package com.vinaysomawat.americanmarketandroid;
 
 import org.junit.Test;
 

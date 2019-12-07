@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.americanmarket.americanmarketandroid"
+    package="com.vinaysomawat.americanmarketandroid"
     android:installLocation="auto">
 
     <uses-permission android:name="android.permission.INTERNET"/>
@@ -12,7 +12,7 @@
         android:roundIcon="@mipmap/logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SplashActivity" android:theme="@style/SplashTheme">
+        <activity android:name="com.vinaysomawat.americanmarketandroid.SplashActivity" android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -21,7 +21,7 @@
 
         </activity>
 
-        <activity android:name=".MainActivity" />
+        <activity android:name="com.vinaysomawat.americanmarketandroid.MainActivity" />
     </application>
 
 </manifest>

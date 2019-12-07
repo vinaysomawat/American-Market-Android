@@ -1,4 +1,4 @@
-package com.americanmarket.americanmarketandroid;
+package com.vinaysomawat.americanmarketandroid;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

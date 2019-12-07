@@ -1,4 +1,4 @@
-package com.americanmarket.americanmarketandroid;
+package com.vinaysomawat.americanmarketandroid;
 
 /**
  * Created by Vinay Somawat on 10-01-2019.
